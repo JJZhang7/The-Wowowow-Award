@@ -1,0 +1,29 @@
+img {
+    border: 20px solid gold;
+    width: 300px;
+    border-radius: 300px;
+}
+body {
+    text-align: center;
+}
+body {
+    background-color: silver;
+}
+.a {
+    background-color:red;
+}
+.b {
+    background-color:green;
+}
+.c {
+    background-color:pink;
+}
+.d {
+    background-color:grey;
+}
+body{
+font-family: 'Mali', cursive;
+}
+head{
+    font-family: 'Dosis', sans-serif;
+}
